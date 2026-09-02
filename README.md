@@ -1,10 +1,10 @@
-# AI4AI Survey
+# What is AI4AI?
 
-Project page for *AI4AI Survey: From Long-Horizon Agents to Recursive
-Self-Improvement*, served at https://ai4ai-survey.github.io/ by GitHub Pages from the root of this
-repository.
+Short English read of the AI4AI survey, served at https://ai4ai-survey.github.io/ by GitHub Pages
+from the root of this repository.
 
-This repository is generated. The page is maintained in
+This repository is generated. The article is maintained in
 https://github.com/simple-agent-lab/simple-agent-lab.github.io under
-`ai4ai/` and synced here by `scripts/build_ai4ai_survey_site.py`; edit it
-there, not here. Preprint: https://doi.org/10.20944/preprints202608.2108.v1
+`ai4ai/` and this short version is built from it by
+`scripts/build_ai4ai_survey_site.py`; edit it there, not here.
+Full article: https://simpleagentlab.com/ai4ai/  Preprint: https://doi.org/10.20944/preprints202608.2108.v1

